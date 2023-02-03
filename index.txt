@@ -1,2 +1,2 @@
-this is index of feature_1
+this is index 
 
